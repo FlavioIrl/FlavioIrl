@@ -14,4 +14,4 @@
 
 ###Estou começando a pouco tempo na programação seguindo o curso **FullStackPython - EBAC**<br/>
 
-Buscando aprender e me desenvolver o máximo possível para poder alcançar minhas metas profissionais.
+Buscando aprender e me desenvolver o máximo possível para que eu possa alcançar minhas metas profissionais.
