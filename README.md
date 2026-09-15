@@ -1,7 +1,7 @@
 ### Olá!!
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flávio-irala-pereira-16a2ab22b/)
 
-//![Flavio Irala  GitHub stats](https://github-readme-stats.vercel.app/api?username=FlavioIrl&show_icons=true&theme=tokyonight)
+\\![Flavio Irala  GitHub stats](https://github-readme-stats.vercel.app/api?username=FlavioIrl&show_icons=true&theme=tokyonight)
 
 ###Tecnologia que estou aprendendo
 <div style = 'display: inline_block'><br/>
